@@ -4,6 +4,7 @@ A simple web app that predicts house prices using a machine learning model train
 The app is powered by Flask or the backend and a Random Forest Regressor from scikit-learn for the predictive model.
 
 
+
 📂 Project Structure
 ├── app.py                  # Flask application to serve predictions
 ├── train_model.py          # Script to train and save the model
@@ -16,12 +17,14 @@ The app is powered by Flask or the backend and a Random Forest Regressor from sc
     |___ houses_prices.jpg
 
 
+
 📊 Features Used
 * OverallQual: Overall material and finish quality
 * GrLivArea: Above grade (ground) living area square feet
 * GarageCars: Size of garage in car capacity
 * TotalBsmtSF: Total square feet of basement area
   
+
 
 ⚙️ How It Works
 1. Model Training (train_model.py):
@@ -35,6 +38,7 @@ The app is powered by Flask or the backend and a Random Forest Regressor from sc
     * Accepts input from users through a form.
     * Returns the predicted house price.
       
+
 
 🚀 How to Run
 1. Install Requirements
@@ -50,16 +54,21 @@ python app.py
 Go to http://127.0.0.1:5000/
 
 
+
 🧪 Sample Input (via form)
 * Overall Quality: 7
 * Living Area (sq ft): 2000
 * Garage Cars: 2
 * Basement Area (sq ft): 1000
 
+
+
 🧠 Model
 * Algorithm: Random Forest Regressor
 * Library: scikit-learn
 * Evaluation Metric: Mean Squared Error (MSE)
+
+
 
 📦 Requirements
 From requirements.txt:
@@ -70,8 +79,11 @@ From requirements.txt:
 * joblib
 
 
+
 👤 Author
 Your Name – @https://github.com/vidyashreekrishnamurthy
+
+
 
 Screenshots:
 <img width="953" height="494" alt="image" src="https://github.com/user-attachments/assets/6fd762ea-6ee0-4bcf-a371-7067139c5b02" />
