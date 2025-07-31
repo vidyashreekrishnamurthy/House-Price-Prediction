@@ -1,7 +1,9 @@
 🏠 House Price Prediction
 
+
 A simple web app that predicts house prices using a machine learning model trained on housing data. 
 The app is powered by Flask or the backend and a Random Forest Regressor from scikit-learn for the predictive model.
+
 
 
 
@@ -18,12 +20,14 @@ The app is powered by Flask or the backend and a Random Forest Regressor from sc
 
 
 
+
 📊 Features Used
 * OverallQual: Overall material and finish quality
 * GrLivArea: Above grade (ground) living area square feet
 * GarageCars: Size of garage in car capacity
 * TotalBsmtSF: Total square feet of basement area
   
+
 
 
 ⚙️ How It Works
@@ -38,6 +42,7 @@ The app is powered by Flask or the backend and a Random Forest Regressor from sc
     * Accepts input from users through a form.
     * Returns the predicted house price.
       
+
 
 
 🚀 How to Run
@@ -55,6 +60,7 @@ Go to http://127.0.0.1:5000/
 
 
 
+
 🧪 Sample Input (via form)
 * Overall Quality: 7
 * Living Area (sq ft): 2000
@@ -63,10 +69,12 @@ Go to http://127.0.0.1:5000/
 
 
 
+
 🧠 Model
 * Algorithm: Random Forest Regressor
 * Library: scikit-learn
 * Evaluation Metric: Mean Squared Error (MSE)
+
 
 
 
@@ -80,12 +88,14 @@ From requirements.txt:
 
 
 
-👤 Author
-Your Name – @https://github.com/vidyashreekrishnamurthy
+
+👤 Author – @https://github.com/vidyashreekrishnamurthy
 
 
 
 Screenshots:
+
+
 <img width="953" height="494" alt="image" src="https://github.com/user-attachments/assets/6fd762ea-6ee0-4bcf-a371-7067139c5b02" />
 
 
