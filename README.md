@@ -1,5 +1,7 @@
 🏠 House Price Prediction
-A simple web app that predicts house prices using a machine learning model trained on housing data. The app is powered by Flask or the backend and a Random Forest Regressor from scikit-learn for the predictive model.
+
+A simple web app that predicts house prices using a machine learning model trained on housing data. 
+The app is powered by Flask or the backend and a Random Forest Regressor from scikit-learn for the predictive model.
 
 
 📂 Project Structure
