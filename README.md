@@ -1,4 +1,4 @@
-<img width="953" height="494" alt="image" src="https://github.com/user-attachments/assets/6fd762ea-6ee0-4bcf-a371-7067139c5b02" />🏠 House Price Prediction
+🏠 House Price Prediction
 A simple web app that predicts house prices using a machine learning model trained on housing data. The app is powered by Flask or the backend and a Random Forest Regressor from scikit-learn for the predictive model.
 
 
@@ -71,6 +71,8 @@ From requirements.txt:
 👤 Author
 Your Name – @https://github.com/vidyashreekrishnamurthy
 
+Screenshots:
+<img width="953" height="494" alt="image" src="https://github.com/user-attachments/assets/6fd762ea-6ee0-4bcf-a371-7067139c5b02" />
 
 
 
