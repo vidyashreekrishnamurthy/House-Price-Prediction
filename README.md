@@ -96,17 +96,31 @@ From requirements.txt:
 Screenshots:
 
 
-1. <img width="953" height="494" alt="image" src="https://github.com/user-attachments/assets/6fd762ea-6ee0-4bcf-a371-7067139c5b02" />
+1.
+  
+     <img width="953" height="494" alt="image" src="https://github.com/user-attachments/assets/6fd762ea-6ee0-4bcf-a371-7067139c5b02" />
 
 
-2. <img width="948" height="182" alt="image" src="https://github.com/user-attachments/assets/c749e0d3-d881-426d-81ce-1eed1dcf3c99" />
-
-3. <img width="949" height="482" alt="image" src="https://github.com/user-attachments/assets/729893f5-d60a-4b7d-968c-11eb6438e0cf" />
+2.
 
 
-4.<img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/7f93c289-089d-4a2e-8173-a59387dab116" />
+    <img width="948" height="182" alt="image" src="https://github.com/user-attachments/assets/c749e0d3-d881-426d-81ce-1eed1dcf3c99" />
 
-5. <img width="920" height="475" alt="image" src="https://github.com/user-attachments/assets/8e93b93b-ba41-477a-af03-aecfa5ade2e8" />
+3.
+
+
+    <img width="949" height="482" alt="image" src="https://github.com/user-attachments/assets/729893f5-d60a-4b7d-968c-11eb6438e0cf" />
+
+
+4.
+
+
+     <img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/7f93c289-089d-4a2e-8173-a59387dab116" />
+
+5.
+
+
+     <img width="920" height="475" alt="image" src="https://github.com/user-attachments/assets/8e93b93b-ba41-477a-af03-aecfa5ade2e8" />
 
 
 
