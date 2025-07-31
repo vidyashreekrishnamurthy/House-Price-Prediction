@@ -7,20 +7,6 @@ The app is powered by Flask or the backend and a Random Forest Regressor from sc
 
 
 
-📂 Project Structure
-├── app.py                  # Flask application to serve predictions
-├── train_model.py          # Script to train and save the model
-├── house_price_model.pkl   # Trained model file
-├── train.csv               # Dataset used to train the model
-├── requirements.txt        # Python dependencies
-├── templates/
-│   └── index.html          # HTML form for input 
-|---Static/
-    |___ houses_prices.jpg
-
-
-
-
 📊 Features Used
 * OverallQual: Overall material and finish quality
 * GrLivArea: Above grade (ground) living area square feet
