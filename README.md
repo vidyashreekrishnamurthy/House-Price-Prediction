@@ -1,4 +1,4 @@
-                                    🏠 House Price Prediction
+🏠 House Price Prediction
 
 
 A simple web app that predicts house prices using a machine learning model trained on housing data. 
